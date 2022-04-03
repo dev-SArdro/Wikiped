@@ -1,0 +1,2 @@
+aiogram==2.19
+wikipedia==1.4.0
